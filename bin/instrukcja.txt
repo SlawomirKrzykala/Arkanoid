@@ -1,0 +1,11 @@
+ARKANOID6 BETA
+Instrukcja:
+Odbijaj pilke aby zbic wszystkie klocki.
+Z kazdym nastepnym poziomem pilka przyspiesza!
+Sterowanie:
+   [spacja] - start
+[strzallki]/[A][D] - ruch platformy
+		[H] - pomoc
+		[P] - pauza
+	  [esc] - wyjscie
+
